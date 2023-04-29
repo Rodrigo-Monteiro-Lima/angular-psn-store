@@ -6,7 +6,7 @@ import { AppComponent } from './app.component';
 import { MenuComponent } from './components/menu/menu.component';
 import { CardComponent } from './components/card/card.component';
 import { LabelComponent } from './components/card/label/label.component';
-import { PrincingComponent } from './components/card/princing/princing.component';
+import { PricingComponent } from './components/card/pricing/pricing.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +14,7 @@ import { PrincingComponent } from './components/card/princing/princing.component
     MenuComponent,
     CardComponent,
     LabelComponent,
-    PrincingComponent
+    PricingComponent
   ],
   imports: [
     BrowserModule,
